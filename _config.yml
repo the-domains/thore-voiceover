@@ -1,6 +1,6 @@
 name: 'Thore Voiceover '
 favicon: null
-layout_spectrum: 0.748485442250967
+layout_spectrum: 1
 typography_spectrum: 0.23431485844776034
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.8867102458607405
-  lightness: 0.32840272784233093
-  saturation: 0.2897853509057313
-  rhythmicContrast: 0.81768135773018
+  brandStrength: 0.75
+  lightness: 0.375
+  saturation: 0.9375
+  rhythmicContrast: 0.5
 purpose: []
